@@ -53,3 +53,27 @@
         </li>
     </ol>
     ```
+## 정의 목록(Description List)
+  1. 용어를 정의 할 때 사용하는 리스트
+  2. key-value로 정보를 제공할 때
+### 태그
+- description list = dl
+- description term = dt
+- description data = dd
+- description definition = dft
+- 기본형식( "dl 안에는 div & dt & dd & dft 태그 사용 가능 / 다른 태그는 사용 불가" )
+  ```html
+  <dl>
+      <dt>학교</dt>
+      <dd>공부하는곳</dd>
+  </dl>
+  ```
+  ```html
+  <dl>
+      <dt>
+          <dft>쇼핑몰</dft>
+      </dt>
+      <dd>의류, 컴퓨터, 가전, 스포츠</dd>
+      <dd>신제품, 이벤트</dd>
+  </dl>
+  ```
