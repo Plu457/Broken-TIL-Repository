@@ -66,3 +66,26 @@
     - cols = 가로 길이 조절
     - CSS로 조절 가능해서 자주쓰이지는 않음
     - placeholder, required, disabled도 사용가능
+### Buttons Tag
+  ```html
+  <button> 버튼 </button>
+  ```
+  - type은 꼭 넣어야된다
+    - button
+      ```html
+      <button type="button">
+          버튼
+      </button>
+      ```
+    - submit
+      ```html
+      <button type="submit">
+          Submit
+      </button>
+      ```
+    - reset
+      ```html
+      <button type="reset">
+          Reset
+      </button>
+      ```
