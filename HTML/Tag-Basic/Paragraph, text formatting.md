@@ -33,6 +33,17 @@
     - 하이라이트 표시
   - pre
     - 입력한 그대로 출력
+      - code태그 추가가능
+  - abbr
+    - 약자, 약어
+  - address
+    - 연락처의 관한 정보를 마크업하는 태그
+      1. 주소
+      2. URL
+      3. Email
+      4. 전화번호
+      5. SNS
+  
 <img src="https://user-images.githubusercontent.com/53371165/111903655-bd3bdd80-8a86-11eb-94b4-526f35673b8d.png" width="700">
 <img src="https://user-images.githubusercontent.com/53371165/111903682-d8a6e880-8a86-11eb-9621-5d00f5f17f45.png" width="700">
 <img src="https://user-images.githubusercontent.com/53371165/111903697-e3617d80-8a86-11eb-821a-22d5c53eb0ca.png" width="700">
