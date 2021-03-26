@@ -42,14 +42,14 @@
         text-align: center;
       color: red;
   }
-    ```
+  ```
 ### Full selector
   ```css
   * {
         font-size: 14px;
       line-height: 24px
   }
-    ```
+  ```
 ### Child, Descendant & Sibling Combinators & Parent selector
   ```html
   [Child, Descendant]
