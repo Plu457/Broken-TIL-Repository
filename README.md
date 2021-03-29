@@ -11,7 +11,7 @@
     * [Table](https://github.com/Plu457/TIL/blob/main/HTML/Tag-Basic/Table.md)
     * [Media](https://github.com/Plu457/TIL/blob/main/HTML/Tag-Basic/Media.md)
   - WireFram
-    * [WireFrame - 기초](https://github.com/Plu457/TIL/blob/main/HTML/WireFrame/WireFrame%20-%20%EA%B8%B0%EC%B4%88.md)
+    * [WireFrame - Basic](https://github.com/Plu457/TIL/blob/main/HTML/WireFrame/WireFrame%20-%20%EA%B8%B0%EC%B4%88.md)
     * [Daily - Practice](https://github.com/Plu457/TIL/blob/main/HTML/WireFrame/Daily%20-%20Practice.md)
 
 ## CSS
